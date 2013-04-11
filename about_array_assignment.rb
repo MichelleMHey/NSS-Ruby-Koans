@@ -1,4 +1,4 @@
-require File.expand_path(File.dirname(__FILE__) + '/edgecase')
+ require File.expand_path(File.dirname(__FILE__) + '/edgecase')
 
 class AboutArrayAssignment < EdgeCase::Koan
   def test_non_parallel_assignment
